@@ -2,7 +2,7 @@
    This package has moved to https://github.com/uchchwhash/maths.
    Not that it had anything worth moving here anyway.
    But the name conflicts with that of the very promising project
-   https://github.com/moonad/Formality-Core.
+   https://github.com/moonad/Formality.
    Maybe some day I'll have enough time to put this thing together.
 
 formality
